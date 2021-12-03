@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Umakanth</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
-
+<img align="right" alt="GIF" src="https://github.com/uchilla/uchilla/blob/main/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchilla&label=Profile%20views&color=0eb4a9&style=flat" alt="uchilla" /> </p>
 
 - 🔭 I’m currently working for **DELL EMC**
