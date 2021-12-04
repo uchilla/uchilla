@@ -10,13 +10,16 @@
 - 🔭 Currently working at **DELL EMC** (Bengaluru)
 - 🌱 I’m currently learning **Kubernetes, Helm**
 - 💡 I love innovation and new technologies
-- 💬 Ask me about **anything**
+- 💬 Ask me about anything and everything!
 - 🥅 **2022 Goals:** CKA certification
-- ⚡ **Fun fact:** I'm a Huge MARVEL fan
+- ⚡ **Fun fact:** I'm a huge fan of MARVEL movies & TV shows
+- 🤞 **One day I hope to ...**
+    - Go Skydiving!
+    - Get a job at FAANG 🎯
 
 ---
 
-<h3 align="left" id="uchilla-tech">My Tech Stack</h3>
+<h3 align="left" id="uchilla-tech">My Tech Stack:</h3>
 
 > Tools, languages, and other things that I like to work with.
 <table>
