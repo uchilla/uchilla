@@ -1,17 +1,17 @@
-<h1 align="left">Hi there 👋, I'm Umakanth</h1>
-<h3 align="left">A passionate cloud engineer from India</h3>
+<h1 align="center">Hi there 👋, I'm Umakanth Reddy</h1>
+<h3 align="center">A passionate cloud engineer from India</h3>
+
+---
+
 <img align="right" alt="GIF" src="https://github.com/uchilla/uchilla/blob/main/code.gif?raw=true" width="450" height="280" />
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working for **DELL EMC**
-
+- 🔭 Currently working at **DELL EMC** (Bengaluru)
 - 🌱 I’m currently learning **Kubernetes, Helm**
-
+- 💡 I love innovation and new technologies
 - 💬 Ask me about **anything**
-
-- 📫 How to reach me **umakanth.chilla@gmail.com**
-
+- 🥅 **2022 Goals:** CKA certification
 - ⚡ **Fun fact:** I'm a Huge MARVEL fan
 
 ---
@@ -74,7 +74,7 @@
       <a href="#uchilla-tech" >
         <img src="./images/azure.svg" width="48" height="48" alt="Microsoft Azure" />
       </a>
-      <br>Azure
+      <br>Microsoft Azure
     </td>
     <td align="center" width="96"> 
       <a href="#uchilla-tech" >
