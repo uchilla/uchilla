@@ -21,5 +21,107 @@
 <a href="https://www.youtube.com/c/umakanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="umakanth" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Tech Stack:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h3 align="left" id="uchilla-tech">My Tech Stack</h3>
+
+> Tools, languages, and other things that I like to work with.
+<table>
+  <tr>
+    <td align="center"  width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/redhat.svg" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>RHEL
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/github.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/jfrog.svg" width="48" height="48" alt="JFrog" />
+      </a>
+      <br>JFrog
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/jenkins.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/bash.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>BASH
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#uchilla-tech" >
+        <img src="./images/azure.svg" width="48" height="48" alt="Microsoft Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96"> 
+      <a href="#uchilla-tech" >
+        <img src="./images/google_cloud.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96"> 
+      <a href="#uchilla-tech" >
+        <img src="./images/docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech" >
+        <img src="./images/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/ansible.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center"  width="96">
+      <a href="#uchilla-tech">
+        <img src="./images/helm.svg" width="48" height="48" alt="Helm" />
+      </a>
+      <br>Helm
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech" >
+        <img src="./images/sap.svg" width="48" height="48" alt="SAP" />
+      </a>
+      <br>SAP
+    </td>
+    <td align="center" width="96">
+      <a href="#uchilla-tech" >
+        <img src="./images/prometheus.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+  </tr>
+</table>
