@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Umakanth</h1>
 <h3 align="left">A passionate cloud engineer from India</h3>
 <img align="right" alt="GIF" src="https://github.com/uchilla/uchilla/blob/main/code.gif?raw=true" width="450" height="280" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uchilla&label=Profile%20views&color=0eb4a9&style=flat" alt="uchilla" /> </p>
+
 <h3 align="left">About Me:</h3>
 - 🔭 I’m currently working for **DELL EMC**
 
@@ -124,12 +124,17 @@
  
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-umakanth.chilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umakanth-reddy-chilla/)](https://www.linkedin.com/in/umakanth-reddy-chilla/) 
-   [![Gmail Badge](https://img.shields.io/badge/-umakanth.chilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umakanth.chilla@gmail.com)](mailto:umakanth.chilla@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@umakanth-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/umakanth/)](https://instagram.com/umakanth) 
-  [![Twitter Badge](https://img.shields.io/badge/@umakanth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/umakanth)](https://twitter.com/umakanth)
-  
+    
+<div align ="center">
+
+[![Twitter Badge](https://img.shields.io/badge/-@umakanth-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=umakanth "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-umakanth.reddy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umakanth-reddy-chilla/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-umakanth.chilla@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:umakanth.chilla@gmail.com "Contact via Email")
+[![Telegram Badge](https://img.shields.io/badge/-@umakanth_cloud-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/umakanth_cloud "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-@umakanth-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/umakanth "Follow on Instagram") 
+
+</div>
+
   <p align="center">
     Show ❤️ by starring and forking repositories you find good!
   </p>
