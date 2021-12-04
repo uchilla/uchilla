@@ -13,13 +13,7 @@
 
 - ⚡ **Fun fact:** I'm a Huge MARVEL fan
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umakanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umakanth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umakanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umakanth" height="30" width="40" /></a>
-<a href="https://instagram.com/umakanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umakanth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/umakanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="umakanth" height="30" width="40" /></a>
-</p>
+---
 
 <h3 align="left" id="uchilla-tech">My Tech Stack</h3>
 
@@ -125,3 +119,24 @@
     </td>
   </tr>
 </table>
+ 
+ ---
+ 
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-umakanth.chilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umakanth-reddy-chilla/)](https://www.linkedin.com/in/umakanth-reddy-chilla/) 
+   [![Gmail Badge](https://img.shields.io/badge/-umakanth.chilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umakanth.chilla@gmail.com)](mailto:umakanth.chilla@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@umakanth-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/umakanth/)](https://instagram.com/umakanth) 
+  [![Twitter Badge](https://img.shields.io/badge/@umakanth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/umakanth)](https://twitter.com/umakanth)
+  
+  <p align="center">
+    Show ❤️ by starring and forking repositories you find good!
+  </p>
+</p> 
+
+<div align="right">
+  
+<img src="https://komarev.com/ghpvc/?username=uchilla&label=Profile%20views&color=0eb4a9&style=flat" alt="uchilla" /> ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
+
+</div>
