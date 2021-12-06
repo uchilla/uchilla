@@ -15,7 +15,7 @@
 - ⚡ **Fun fact:** I'm a huge fan of MARVEL movies & TV shows
 - 🤞 **One day I hope to ...**
     - Go Skydiving!
-    - Get a job at FAANG 🎯
+    - Visit Iceland for a 2-week holiday trip ✈️
 
 ---
 
